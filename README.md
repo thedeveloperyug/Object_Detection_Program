@@ -1,5 +1,5 @@
 
-#Live Object Detection Model
+# Live Object Detection Model
 
 This Machine Learning model uses ssd_mobilenet (it is a single convolution network) to detect the real life objects.
 
